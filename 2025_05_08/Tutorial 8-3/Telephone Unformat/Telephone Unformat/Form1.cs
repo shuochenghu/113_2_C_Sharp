@@ -89,7 +89,7 @@ namespace Telephone_Unformat
             {
                 MessageBox.Show("請輸入正確格式的電話號碼！", "錯誤", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 // 清空輸入框。
-                numberTextBox.Text = "string.Empty";
+                numberTextBox.Text = string.Empty;
                 // 將焦點設置到輸入框。
                 numberTextBox.Focus();
             }
@@ -103,6 +103,11 @@ namespace Telephone_Unformat
         {
             // 關閉表單。
             this.Close();
+        }
+
+        private void instructionLabel_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
