@@ -1,0 +1,28 @@
+Anaheim Angels - 阿納海姆天使
+Arizona Diamondbacks - 亞利桑那響尾蛇
+Atlanta Braves - 亞特蘭大勇士
+Baltimore Orioles - 巴爾的摩金鶯
+Boston Americans - 波士頓美國人
+Boston Braves - 波士頓勇士
+Boston Red Sox - 波士頓紅襪
+Brooklyn Dodgers - 布魯克林道奇
+Chicago Cubs - 芝加哥小熊
+Chicago White Sox - 芝加哥白襪
+Cincinnati Reds - 辛辛那提紅人
+Cleveland Indians - 克里夫蘭印地安人
+Detroit Tigers - 底特律老虎
+Florida Marlins - 佛羅里達馬林魚
+Kansas City Royals - 堪薩斯市皇家
+Los Angeles Dodgers - 洛杉磯道奇
+Milwaukee Braves - 密爾瓦基勇士
+Minnesota Twins - 明尼蘇達雙城
+New York Giants - 紐約巨人
+New York Mets - 紐約大都會
+New York Yankees - 紐約洋基
+Oakland Athletics - 奧克蘭運動家
+Philadelphia Athletics - 費城運動家
+Philadelphia Phillies - 費城費城人
+Pittsburgh Pirates - 匹茲堡海盜
+St. Louis Cardinals - 聖路易紅雀
+Toronto Blue Jays - 多倫多藍鳥
+Washington Senators - 華盛頓參議員
